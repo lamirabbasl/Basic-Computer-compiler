@@ -2,7 +2,7 @@
 
 Basic Comouter Compiler
 
-![image](https://github.com/user-attachments/assets/39329e82-b141-49bc-9ca5-81a458f0759c)
+![image](https://github.com/user-attachments/assets/ed277b45-e47e-44b7-8dfd-6b6aa8f0a7cf)
 
 visit in:
 https://amirabbas-compiler.netlify.app/
